@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "the contents list of the current directory: $(ls)"
+echo "$(ls)"
