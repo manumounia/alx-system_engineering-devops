@@ -1,0 +1,4 @@
+#!/bin/bash
+
+listit=$(ls)
+echo "the contents list of the current directory: $listit"
